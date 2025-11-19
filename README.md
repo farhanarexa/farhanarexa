@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Farhana Islam  
 ## MERN Stack Developer | Full Stack Developer
 
-I'm a passionate Front-end from Dhaka, Bangladesh, currently building my foundation in full-stack web development with the **MERN stack** (MongoDB, Express.js, React, Node.js). I believe in learning by doing — building projects, breaking them, fixing them, and repeating.
+I'm a passionate Front-end developer from Dhaka, Bangladesh. I love turning ideas into clean, efficient, and user-friendly digital experiences. Always learning, exploring new tools, and improving my craft. Currently I'm building my foundation in full-stack web development with the **MERN stack** (MongoDB, Express.js, React, Node.js). I believe in learning by doing — building projects, breaking them, fixing them, and repeating.
 
 ### About Me
 - 🔭 I'm currently working on a scalable MERN stack application
