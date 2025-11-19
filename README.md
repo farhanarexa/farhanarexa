@@ -57,7 +57,7 @@ I'm a passionate Front-end from Dhaka, Bangladesh, currently building my foundat
 
 ## 🌐 Connect With Me
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>]([https://linkedin.com/in/farhanaislam](https://www.linkedin.com/in/iam-farhana/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>](https://www.linkedin.com/in/iam-farhana) 
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40"/>](https://github.com/farhanarexa) 
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>](mailto:mailfarhana702@gmail.com)
 
