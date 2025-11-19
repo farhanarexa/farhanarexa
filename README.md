@@ -1,30 +1,15 @@
-Here's your updated README with the skills added:
+![Banner Image](https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif)
 
 # 👋 Hi, I'm Farhana Islam  
-### Beginner MERN Stack Developer | Lifelong Learner | Tech Enthusiast
+## MERN Stack Developer | Full Stack Developer
 
-> *“Code is poetry written for machines.”* — Inspired by Clean Code
+I'm a passionate Front-end from Dhaka, Bangladesh, currently building my foundation in full-stack web development with the **MERN stack** (MongoDB, Express.js, React, Node.js). I believe in learning by doing — building projects, breaking them, fixing them, and repeating.
 
-I'm a passionate software engineer from Dhaka, Bangladesh, currently building my foundation in full-stack web development with the **MERN stack** (MongoDB, Express.js, React, Node.js). I believe in learning by doing — building projects, breaking them, fixing them, and repeating.
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend:**  
-React | Next.js | Tailwind CSS | JavaScript (ES6+) | HTML5 | CSS3 | Bootstrap | Figma
-
-**Backend:**  
-Node.js | Express.js | REST APIs | Firebase
-
-**Database:**  
-MongoDB | MongoDB Atlas
-
-**Tools & Practices:**  
-Git & GitHub | VS Code | Postman | Figma | Agile Basics
-
-**Currently Learning:**  
-Next.js | AWS | Docker
+### About Me
+- 🔭 I'm currently working on a scalable MERN stack application
+- 🌱 I'm exploring Next.js and its services for development
+- 📚 I'm reading "Clean Code" by Robert Martin to write better code
+- 🎯 My goal is to become a proficient full-stack developer
 
 ---
 
@@ -33,8 +18,6 @@ Next.js | AWS | Docker
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWVmXTRybjWV4i9IV85_D7GtvdrJtzYHe8kn5KnJudvtK-OYhpqwTP-2aDiWyKrZvkEtE&usqp=CAU" height="30" alt="express logo" />
@@ -42,6 +25,8 @@ Next.js | AWS | Docker
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
@@ -62,29 +47,19 @@ Next.js | AWS | Docker
 
 ---
 
-## 🚀 Recent Projects
+## 🌟 GitHub Stats
 
-- **[Portfolio Frontend](https://github.com/farhanarexa/portfolio-frontend)** — Personal portfolio built with Next.js and Supabase ✨  
-- **[Homebuyer Backend](https://github.com/farhanarexa/homebuyer-backend)** — API for generating UK property reports (Node.js + Express)  
-- **[E-Commerce Mock](https://github.com/farhanarexa/mern-ecommerce-mock)** — Full-stack product catalog with user auth (MERN stack)  
-
-*(More projects coming soon — I have 258 repos, but only 18 stars… I'm working on it!)*
+![Farhana's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhanarexa&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanarexa&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farhanarexa&theme=radical&hide_border=true)
 
 ---
 
-## 🌱 What I'm Working On
+## 🌐 Connect With Me
 
-- Building a scalable, production-ready MERN app from scratch  
-- Writing cleaner, more maintainable code every day  
-
----
-
-## 💬 Let's Connect!
-
-I'm always open to collaborating, learning from others, or just chatting about tech.  
-📧 Email: mailfarhana702@gmail.com *(replace with your real email)*  
-📱 LinkedIn: [linkedin.com/in/farhanaislam](https://linkedin.com/in/farhanaislam) *(add if you have one)*  
-☕ Coffee + Code = My happy place (I drink 2 cups daily — sometimes more during traffic jams 😅)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>](https://linkedin.com/in/farhanaislam) 
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40"/>](https://github.com/farhanarexa) 
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>](mailto:mailfarhana702@gmail.com)
 
 ---
 
